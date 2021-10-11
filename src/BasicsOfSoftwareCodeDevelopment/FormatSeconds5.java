@@ -1,15 +1,12 @@
 package BasicsOfSoftwareCodeDevelopment;
 
 /*
-1.Basics of software code development
-Задание 5
+    1.Basics of software code development
+    Линейные программы
+    Задание 5
  */
 
 public class FormatSeconds5 {
-    public static void main(String[] args) {
-        FormatSeconds(10000);
-        FormatSeconds(10000);
-    }
 
     /**
      * Выводит длительность прошедшего времени в формате HHч ММмин SSс
