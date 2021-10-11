@@ -2,6 +2,6 @@ package BasicsOfSoftwareCodeDevelopment;
 
 public class Main {
     public static void main(String[] args) {
-    IsTriangle7.IsTriangle(30, -60);
+        System.out.println(MaxMin8.MaxMin(6, 2, 10,4));
     }
 }
