@@ -1,8 +1,8 @@
 package BasicsOfSoftwareCodeDevelopment;
 
-/**
- * 1.Basics of software code development
- * Задание 1
+/*
+1.Basics of software code development
+Задание 1
  */
 
 public class FunctionValue1 {

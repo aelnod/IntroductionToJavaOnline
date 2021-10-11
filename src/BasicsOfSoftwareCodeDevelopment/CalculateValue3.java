@@ -1,8 +1,8 @@
 package BasicsOfSoftwareCodeDevelopment;
 
-/**
- * 1.Basics of software code development
- * Задание 3
+/*
+1.Basics of software code development
+Задание 3
  */
 
 public class CalculateValue3 {

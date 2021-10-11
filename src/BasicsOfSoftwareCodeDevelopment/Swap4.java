@@ -1,8 +1,8 @@
 package BasicsOfSoftwareCodeDevelopment;
 
-/**
- * 1.Basics of software code development
- * Задание 4
+/*
+1.Basics of software code development
+Задание 4
  */
 
 public class Swap4 {
