@@ -2,12 +2,9 @@ package BasicsOfSoftwareCodeDevelopment;
 
 /*
     1.Basics of software code development
-    Линейные программы
-    Задание 1
+    Линейные программы: задание 1
  */
-
 public class FunctionValue1 {
-
     /**
      * Вычисляет значение функции (((a - 3) * b) / 2) + c
      */

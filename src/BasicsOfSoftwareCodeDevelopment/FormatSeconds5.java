@@ -2,12 +2,9 @@ package BasicsOfSoftwareCodeDevelopment;
 
 /*
     1.Basics of software code development
-    Линейные программы
-    Задание 5
+    Линейные программы: задание 5
  */
-
 public class FormatSeconds5 {
-
     /**
      * Выводит длительность прошедшего времени в формате HHч ММмин SSс
      * @param seconds длительность прошедшего времени в секундах

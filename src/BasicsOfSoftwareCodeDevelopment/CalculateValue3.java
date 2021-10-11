@@ -2,12 +2,9 @@ package BasicsOfSoftwareCodeDevelopment;
 
 /*
     1.Basics of software code development
-    Линейные программы
-    Задание 3
+    Линейные программы: задание 3
  */
-
 public class CalculateValue3 {
-
     /**
      * Вычисляет значение выражения по формуле (sin(x)+cos(y))/(cos(y)-sin(x))*tg(xy)
      */
