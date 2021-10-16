@@ -3,6 +3,8 @@ package BasicsOfSoftwareCodeDevelopment;
 /*
     1.Basics of software code development
     Линейные программы: задание 4
+    Дано действительное число R вида nnn.ddd (три цифровых разряда в дробной и целой частях).
+    Поменять местами дробную и целую части и вывести полученное значение числа.
  */
 public class Swap4 {
     /**

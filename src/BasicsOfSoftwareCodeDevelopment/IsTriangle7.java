@@ -3,12 +3,10 @@ package BasicsOfSoftwareCodeDevelopment;
 /*
     1.Basics of software code development
     Ветвления: задание 1
+    Даны два угла треугольника (в градусах). Определить, существует ли такой, и если да,
+    то будет ли он прямоугольным.
  */
 public class IsTriangle7 {
-    /**
-     * Определяет существование треугольника по двум углам (в градусах)
-     * и, если существует, прямоугольный ли он.
-     */
     public static void IsTriangle(int a, int b) {
         if (a + b >= 180 || a <= 0 || b <= 0) {
             System.out.println("Треугольника с заданными углами НЕ существует");
