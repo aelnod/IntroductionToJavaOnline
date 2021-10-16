@@ -1,6 +1,14 @@
 package BasicsOfSoftwareCodeDevelopment;
+/*
+    1.Basics of software code development
+    Ветвления: задание 4
+ */
 
 public class IsBrickPass10 {
+    /**
+     * Сообщает, может ли кирпич (размером x, y,  z) пройти
+     * сквозь отверстие A на B
+     */
     public static void IsBrickPass(int A, int B, int x, int y, int z) {
         int count = 0;
         count += (x <= A && y <= B) ? 1 : (y <= A && x <= B) ? 1 : 0;
