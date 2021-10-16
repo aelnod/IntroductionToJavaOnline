@@ -1,8 +1,9 @@
 package BasicsOfSoftwareCodeDevelopment;
 /*
     1.Basics of software code development
-    Циклы: задание 3
-    Найти сумму квадратов первых ста чисел.
+    Циклы: задание 4
+    Составить программу нахождения произведения квадратов
+    первых двухсот чисел
  */
 
 public class MultSquareFirstTwoHundred15 {
