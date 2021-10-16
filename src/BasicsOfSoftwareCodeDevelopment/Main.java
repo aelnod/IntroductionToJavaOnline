@@ -2,6 +2,6 @@ package BasicsOfSoftwareCodeDevelopment;
 
 public class Main {
     public static void main(String[] args) {
-        PrintDivider18.PrintDivider(5, 20);
+        SameNumbers19.SameNumbers(5569, 45);
     }
 }
